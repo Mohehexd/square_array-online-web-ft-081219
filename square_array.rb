@@ -1,6 +1,8 @@
 def square_array(array)
-   
-  array.each
+  new_array[]
+  array.each 
 end
 
-new array
+# new array
+# use .each
+#shovel or push values in new_array
